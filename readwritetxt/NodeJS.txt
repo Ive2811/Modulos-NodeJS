@@ -1,0 +1,1 @@
+Node.js está ideado como un entorno de ejecución de JavaScript orientado a eventos asíncronos,y está diseñado para crear aplicaciones network escalables.
